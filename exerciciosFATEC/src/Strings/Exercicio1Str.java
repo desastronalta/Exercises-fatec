@@ -25,7 +25,7 @@ public class Exercicio1Str {
 				 if(nome2.length() > 1) flag = true;
 			}
 		}
-		// tentei fazer uma flag para ipedir que o usuario coloque apenas uma letra mas nao funcionou  aceito sujestôes.
+		// tentei fazer uma flag para impedir que o usuario coloque apenas uma letra mas nao funcionou  aceito sujestôes :).
 		System.out.printf("o primeiro nome inserido é %s, o segundo é %s. Já a segunda letra de cada respectivamente é '%s' e '%s'",
 			nome1, nome2, nome1.charAt(1), nome2.charAt(1));
 		sc.close();
