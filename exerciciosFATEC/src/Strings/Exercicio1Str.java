@@ -31,3 +31,4 @@ public class Exercicio1Str {
 		sc.close();
 	}
 }
+
