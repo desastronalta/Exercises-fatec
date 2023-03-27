@@ -7,7 +7,7 @@ public class Exercicio1metodos {
 		System.out.println(verificaValor(valor));
 		sc.close();
 	}
-	public static String verificaValor(int valor) {
+	public static  String verificaValor(int valor) {
 		String teste;
 		if(valor%2 == 0  ) { 
 		teste = "o valor inserido e par.";
