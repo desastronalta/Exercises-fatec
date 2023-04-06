@@ -1,6 +1,6 @@
 package Métodos;
 import java.util.Scanner;
-public class Exercicios8metodos {
+public class Exercicio8metodos {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
